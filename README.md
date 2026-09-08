@@ -1,2 +1,2 @@
 # LUC-Projects
-My first Github project for COMP141
+My first Github project for Loyola
